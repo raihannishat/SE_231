@@ -1,0 +1,8 @@
+E:\Code\Project\BookShopSystem\BookShopSystem.Library\bin\Debug\netcoreapp3.1\BookShopSystem.Library.deps.json
+E:\Code\Project\BookShopSystem\BookShopSystem.Library\bin\Debug\netcoreapp3.1\BookShopSystem.Library.dll
+E:\Code\Project\BookShopSystem\BookShopSystem.Library\obj\Debug\netcoreapp3.1\BookShopSystem.Library.AssemblyInfoInputs.cache
+E:\Code\Project\BookShopSystem\BookShopSystem.Library\obj\Debug\netcoreapp3.1\BookShopSystem.Library.AssemblyInfo.cs
+E:\Code\Project\BookShopSystem\BookShopSystem.Library\bin\Debug\netcoreapp3.1\BookShopSystem.Library.pdb
+E:\Code\Project\BookShopSystem\BookShopSystem.Library\obj\Debug\netcoreapp3.1\BookShopSystem.Library.csproj.CoreCompileInputs.cache
+E:\Code\Project\BookShopSystem\BookShopSystem.Library\obj\Debug\netcoreapp3.1\BookShopSystem.Library.dll
+E:\Code\Project\BookShopSystem\BookShopSystem.Library\obj\Debug\netcoreapp3.1\BookShopSystem.Library.pdb

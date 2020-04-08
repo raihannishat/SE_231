@@ -1,0 +1,12 @@
+E:\Code\Project\BookShopSystem\BookShopSystem.Model\bin\Debug\netcoreapp3.1\BookShopSystem.Model.deps.json
+E:\Code\Project\BookShopSystem\BookShopSystem.Model\bin\Debug\netcoreapp3.1\BookShopSystem.Model.dll
+E:\Code\Project\BookShopSystem\BookShopSystem.Model\bin\Debug\netcoreapp3.1\BookShopSystem.Library.dll
+E:\Code\Project\BookShopSystem\BookShopSystem.Model\bin\Debug\netcoreapp3.1\BookShopSystem.Library.pdb
+E:\Code\Project\BookShopSystem\BookShopSystem.Model\obj\Debug\netcoreapp3.1\BookShopSystem.Model.csprojAssemblyReference.cache
+E:\Code\Project\BookShopSystem\BookShopSystem.Model\obj\Debug\netcoreapp3.1\BookShopSystem.Model.AssemblyInfoInputs.cache
+E:\Code\Project\BookShopSystem\BookShopSystem.Model\obj\Debug\netcoreapp3.1\BookShopSystem.Model.AssemblyInfo.cs
+E:\Code\Project\BookShopSystem\BookShopSystem.Model\obj\Debug\netcoreapp3.1\BookShopSystem.Model.csproj.CopyComplete
+E:\Code\Project\BookShopSystem\BookShopSystem.Model\bin\Debug\netcoreapp3.1\BookShopSystem.Model.pdb
+E:\Code\Project\BookShopSystem\BookShopSystem.Model\obj\Debug\netcoreapp3.1\BookShopSystem.Model.csproj.CoreCompileInputs.cache
+E:\Code\Project\BookShopSystem\BookShopSystem.Model\obj\Debug\netcoreapp3.1\BookShopSystem.Model.dll
+E:\Code\Project\BookShopSystem\BookShopSystem.Model\obj\Debug\netcoreapp3.1\BookShopSystem.Model.pdb

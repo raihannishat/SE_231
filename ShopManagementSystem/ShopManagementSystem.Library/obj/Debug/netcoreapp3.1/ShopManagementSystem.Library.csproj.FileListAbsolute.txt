@@ -1,0 +1,8 @@
+E:\Code\Project\ShopManagementSystem\ShopManagementSystem.Library\bin\Debug\netcoreapp3.1\ShopManagementSystem.Library.deps.json
+E:\Code\Project\ShopManagementSystem\ShopManagementSystem.Library\bin\Debug\netcoreapp3.1\ShopManagementSystem.Library.dll
+E:\Code\Project\ShopManagementSystem\ShopManagementSystem.Library\obj\Debug\netcoreapp3.1\ShopManagementSystem.Library.AssemblyInfoInputs.cache
+E:\Code\Project\ShopManagementSystem\ShopManagementSystem.Library\obj\Debug\netcoreapp3.1\ShopManagementSystem.Library.AssemblyInfo.cs
+E:\Code\Project\ShopManagementSystem\ShopManagementSystem.Library\bin\Debug\netcoreapp3.1\ShopManagementSystem.Library.pdb
+E:\Code\Project\ShopManagementSystem\ShopManagementSystem.Library\obj\Debug\netcoreapp3.1\ShopManagementSystem.Library.csproj.CoreCompileInputs.cache
+E:\Code\Project\ShopManagementSystem\ShopManagementSystem.Library\obj\Debug\netcoreapp3.1\ShopManagementSystem.Library.dll
+E:\Code\Project\ShopManagementSystem\ShopManagementSystem.Library\obj\Debug\netcoreapp3.1\ShopManagementSystem.Library.pdb

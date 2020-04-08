@@ -1,0 +1,35 @@
+CREATE DATABASE ShopManagementSystem;
+
+CREATE TABLE Product (
+	ID int NOT NULL PRIMARY KEY,
+	Name varchar(255),
+	Type varchar(255),
+	Price int,
+	Quantity int
+);
+
+CREATE TABLE Customer(
+	ID int NOT NULL PRIMARY KEY,
+	Name varchar(255),
+	Address varchar(255)
+);
+
+CREATE TABLE Orders(
+	ID int NOT NULL PRIMARY KEY,
+	Product_ID int,
+	Customer_ID int,
+	Product_Price int,
+	Date_Time datetime	
+);
+
+
+SELECT DISTINCT Book.ID, Book.Name, Book.Author, Book.Price
+FROM Book, Orders
+    WHERE Book.ID = Orders.Book_ID AND 
+    Orders.Customer_ID = 1003;
+
+
+SELECT DISTINCT Customer.ID, Customer.Name, Customer.Address
+FROM Customer, Orders
+	WHERE Customer.ID = Orders.Customer_ID
+	AND Orders.Book_ID = 101; 
